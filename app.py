@@ -1,4 +1,1 @@
-print("Name: Kamili Campbell" \
-"Major: Computer Science" \
-"Technology Interest: Human-Computer Interaction" \
-"Skill Goal: Software Application Development")
+print(" Name: Kamili Campbell\n Major: Computer Science\n Technology Interest: Human-Computer Interaction\n Skill Goal: Software Application Development")
